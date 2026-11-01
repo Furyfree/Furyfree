@@ -38,4 +38,4 @@ I write less code by hand these days.
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/pby-dk/) · [Bluesky](https://bsky.app/profile/pby.dk) · [X](https://x.com/FuryfreeP)
+[LinkedIn](https://www.linkedin.com/in/pby-dk/) · [X](https://x.com/FuryfreeP) · [Bluesky](https://bsky.app/profile/pby.dk)
