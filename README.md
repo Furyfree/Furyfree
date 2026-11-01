@@ -16,10 +16,10 @@ I've daily-driven these distros to find what I like and don't:
 
 ### What I build
 
-My whole setup is reproducible: it lives in code, so I can rebuild any part of it the same way.
+My setup lives in code, so I can rebuild most of it the same way.
 
 - [nix](https://github.com/Furyfree/nix): sets up my machines
-- homelab: apps I host myself, so I'm independent of cloud services and own my data (public soon)
+- homelab: Proxmox, Kubernetes and the apps I'm moving to self-hosting, so I own my data (public soon)
 - [ai-workflow](https://github.com/Furyfree/ai-workflow): configures my AI coding agents
 - [noctalia-key-promoter](https://github.com/Furyfree/noctalia-key-promoter): shows the Hyprland shortcut when I use the mouse
 
